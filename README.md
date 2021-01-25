@@ -16,7 +16,7 @@ U-Interfaces Package`Twitter Bootstrap `
 
 Before starting installation make sure you are installing project dependencies in your virtual environment not in system main python interpreter. 
 
-1. Clone the repository with `https://github.com/shahabmohammadi/Portfolio.Flask.Project.LaunchDay.CountDown.git`.
+1. Clone the repository with `git clone https://github.com/shahabmohammadi/Portfolio.Flask.Project.LaunchDay.CountDown.git`.
 1. Open the repo directory in a new OSX/Linux terminal or Windows command-line.
 1. Run `pip install -r requirements.txt`.
 1. Run `python -m flask run`.
